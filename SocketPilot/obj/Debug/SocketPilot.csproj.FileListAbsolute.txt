@@ -1,0 +1,15 @@
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\bin\Debug\SocketPilot.exe
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\bin\Debug\SocketPilot.exe.config
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\MainWindow.g.cs
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\App.g.cs
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot_MarkupCompile.cache
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot_MarkupCompile.lref
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\MainWindow.baml
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.g.resources
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.Properties.Resources.resources
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.csproj.GenerateResource.cache
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.csproj.CoreCompileInputs.cache
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.exe
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.pdb
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\obj\Debug\SocketPilot.csprojAssemblyReference.cache
+D:\__1__WORK\__4__ProjectDevSource\__1__ModularationPilot\SocketPilot\SocketPilot\bin\Debug\SocketPilot.pdb
